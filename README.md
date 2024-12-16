@@ -2,7 +2,7 @@
 
 This repository contains the expert-annotated hate speech dataset used for our study on annotating misogynistic hate speech. If you use our work in your research, please cite the following paper published at HCOMP 2023.
 
-Hettiachchi, D., Holcombe-James, I., Livingstone, S., de Silva, A., Lease, M., Salim, F.D. and Sanderson, M. 2023. How Crowd Worker Factors Influence Subjective Annotations: A Study of Tagging Misogynistic Hate Speech in Tweets. Proceedings of the AAAI Conference on Human Computation and Crowdsourcing. 11, 1 (2023), 38-50. https://doi.org/10.1609/hcomp.v11i1.27546.
+> Hettiachchi, D., Holcombe-James, I., Livingstone, S., de Silva, A., Lease, M., Salim, F.D. and Sanderson, M. 2023. How Crowd Worker Factors Influence Subjective Annotations: A Study of Tagging Misogynistic Hate Speech in Tweets. Proceedings of the AAAI Conference on Human Computation and Crowdsourcing. 11, 1 (2023), 38-50. https://doi.org/10.1609/hcomp.v11i1.27546.
 
 [BibTeX](hettiachchi2023.bib) | [PDF](https://www.danulahettiachchi.com/papers/hcomp23.pdf)
 
